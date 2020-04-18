@@ -1,0 +1,58 @@
+html {
+  background: linear-gradient(#4389A2,#5C258D);
+}
+
+* {
+  box-shadow: none !important;
+}
+
+h3 {
+  background: none !important;
+  font-size: 130% !important;
+}
+
+.pagesection {
+  background: none;
+}
+
+#topbar {
+  height: 60px;
+  box-shadow: none;
+}
+
+#topbar > .row {
+  padding-top: 10px;
+}
+
+#menubar .col-md-12 {
+  margin-top: 10px;
+}
+
+#menubar .menu_item {
+  margin-top: 10px;
+}
+
+#toprightmenu {
+  font-size: 200%;
+}
+
+#friend-menu, #login-menu {
+  font-size: 50%;
+}
+
+#navbutton_premium {
+  display: none;
+}
+
+#main-content .row {
+  background: linear-gradient(#f8f8f8, #e7e9e8);
+}
+
+#main-content .row[id] {
+  padding-top: 6px;
+}
+
+#main-content > .row > .col-md-12 {
+  margin: 0;
+  width: 100%;
+}
