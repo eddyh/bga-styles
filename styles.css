@@ -44,7 +44,9 @@ h3 {
   display: none;
 }
 
-#main-content .row {
+#main-content .row,
+#pagesection_gameresult,
+.pagesection {
   background: linear-gradient(#f8f8f8, #e7e9e8);
 }
 
